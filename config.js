@@ -2,6 +2,6 @@
 // Вставь сюда значения из Supabase -> Project Settings -> Data API (или API).
 
 window.SUPABASE_CONFIG = {
-  url: "ВСТАВЬ_PROJECT_URL_СЮДА",
-  key: "ВСТАВЬ_PUBLISHABLE_ИЛИ_ANON_KEY_СЮДА"
+  url: "https://mvzafczwyisfvoeojuas.supabase.co/rest/v1/",
+  key: "sb_publishable_jV3WyYMW2iCzfounAeE1oA_GpGmZKhT"
 };
